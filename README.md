@@ -2,7 +2,7 @@
 
 Este trabalho foi desenvolvido como desafio de projeto da DIO de Vibe Coding e tem como proposta criar um aplicativo de organização financeira pessoal.
 
-
+```
 #  PRD —  Aplicativo de Organização Financeira Simplificado
 
 ## 1. Visão Geral
@@ -60,3 +60,89 @@ Gerar um plano de MVP contendo:
 - Linguagem acessível e tom educativo, em português
 - Aplicação dos princípios de Design Universal desde o protótipo
 ---
+```
+
+Interações com o Lovable
+
+Crie um APP de finanças pessoais com base no seguinte PRD (Product Requeriments Document)
+Corrija os erros apresentados
+Zere os valores
+
+---
+Resultado Final no Lovable: https://grana-natural.lovable.app
+
+<img width="1898" height="936" alt="image" src="https://github.com/user-attachments/assets/4c351415-9bab-4a85-83d7-df7da5c462d8" />
+
+---
+
+# Funcionalidades Principais
+
+```
+##1 Registro de gastos via chat
+
+•	O usuário informa seus gastos escrevendo ou falando naturalmente.
+•	Exemplo: “Gastei 30 reais com almoço hoje.”
+•	O sistema interpreta automaticamente as informações.
+
+##2 Classificação automática de transações
+
+•	Identificação inteligente da categoria do gasto (alimentação, transporte, lazer etc.).
+•	Reduz a necessidade de categorização manual.
+•	Aprende com o comportamento do usuário ao longo do tempo.
+
+##3 Definição e acompanhamento de metas financeiras
+
+•	Criação de metas simples, como: “Quero economizar R$200 por mês.”
+•	Acompanhamento automático do progresso.
+•	Feedbacks claros sobre desempenho e ajustes necessários.
+
+##4 Dicas e alertas inteligentes
+
+•	Recomendações personalizadas com base no comportamento financeiro.
+•	Alertas preventivos de excesso de gastos.
+•	Insights simples e educativos para estimular melhores decisões.
+
+##5 Orientação sobre investimentos 
+
+•	Explicações acessíveis sobre:
+  -	Tipos de investimentos
+  -	Nível de risco
+  - Prazo
+  -	Liquidez
+•	Linguagem simples, voltada para iniciantes.
+
+##6 Relatórios simples e personalizados
+
+•	Gráficos visuais fáceis de entender.
+•	Resumos financeiros adaptados ao perfil do usuário.
+•	Foco em clareza e compreensão rápida.
+
+##♿ Diferenciais de Acessibilidade
+
+O app será desenvolvido com base em Design Universal, garantindo:
+•	Interface clara e intuitiva
+•	Navegação simples
+•	Compatibilidade com leitores de tela
+•	Comandos por voz
+•	Feedbacks visuais e auditivos
+•	Linguagem educativa e acessível
+```
+---
+
+## 🧠 Reflexão
+
+### O que funcionou bem?  
+O refinamento do PRD feito no Copilot foi útil, devido a limitação dos créditos do Lovable. 
+
+### O que não funcionou como o esperado?  
+Tentei fazer o aplicativo no Copilot como alternativa a limitação de interações do Lovable, mas a versão apresentada do App não era tão atrativa quanto a do Lovable. 
+
+### O que aprendi sobre conversar com IAs?  
+Tive a oportunidade de refinar os prompts como forma de aprimorar os resultados.
+
+
+
+
+
+
+
